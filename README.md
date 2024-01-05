@@ -17,7 +17,7 @@ information from this column.
 
 i.Finding the title of video which has maximum numbers of like and maximum numbers of dislikes.
 
-ii.Also find which channel has munimum numbers of likes and dislikes.
+ii.Also find which channel has minimum numbers of likes and dislikes.
 
 iii.Added a new column "published_month" based on column "published_date".
 
